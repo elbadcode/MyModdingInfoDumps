@@ -13,3 +13,7 @@
 * [Unreal Modding tools](https://github.com/elbadcode/UE-Modding-Tools)
   Added section about 3dmigoto with some additional info on specific games using it as well as info on wuthering waves modding and links to relevant communities
   PR still open - just needs to be accepted after fulfilling any change requets
+
+# Not a document but it counts as an info dump because it dumps info for analysis 
+* [dxbc_reader packed exe](https://github.com/elbadcode/dxbc_reader)
+  crammed 3dmigoto hlsl decompiler/disassembler and a bytecode parser into a standalone exe
